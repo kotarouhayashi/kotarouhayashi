@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Hayashikotarou/Hayashikotarou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h2 align="center">Hi I'm Kotarou. 👋</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayashikotarou&&show_icons=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
+---
+#### Coding time in the last month
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+<details>
+<summary>テスト</summary><div> 
+  
+  - aaa 
+  - bbb 
+  - ccc 
+  
+</div></details>
