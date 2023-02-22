@@ -16,7 +16,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash   0 secs          █████████████████████████   100.00 %
+From: 22 January 2023 - To: 21 February 2023
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
