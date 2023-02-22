@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 22 February 2023
+From: 15 February 2023 - To: 22 February 2023
 
 Bash   0 secs          █████████████████████████   100.00 %
 ```
