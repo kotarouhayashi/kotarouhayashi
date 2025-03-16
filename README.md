@@ -1,6 +1,6 @@
 <h2 align="center">Hi I'm kotarou hayashi. 👋</h2>
 
-- 🔭 I’m currently studying at Shiga University.
+- 🔭 I’m kotaro.
 - 🌱 I’m currently learning data science.
 - ⚡ Fun fact: bicycle, soft tennis, reading comic and novel
 <!-- - 👯 I’m looking to collaborate on ... -->
